@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website showcasing my journey and accomplishments as a passionate computer science student! This repository hosts the code for my interactive and dynamic portfolio website, designed to highlight my skills, projects, and experiences in the world of technology.
 
-## 🌐 [Live Demo](neloduka-sobe.github)
+## 🌐 [Live Demo](https://neloduka-sobe.github.io)
 
 ## 📚 About Me
 I am a dedicated computer science enthusiast embarking on a journey to explore and conquer the realms of software development. This website is a reflection of my dedication to learning, problem-solving, and creative thinking.
