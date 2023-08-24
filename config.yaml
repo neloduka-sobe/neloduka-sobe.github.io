@@ -207,8 +207,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Repository of example solutions for an official problem set for the Matura exam
-        content: The repository aims to help other computer science enthusiasts learn algorithms required for the polish Matura exam and comprehend algorithm thinking by resolving official problem sets. I have been committing to this project as I have been preparing for the exam on myself.
+      - title: "Repository of example solutions for an official problem set for the Matura exam"
+        content: "The repository aims to help other computer science enthusiasts learn algorithms required for the polish Matura exam and comprehend algorithm thinking by resolving official problem sets. I have been committing to this project as I have been preparing for the exam on myself."
         image: /images/projects/profile.png
         featured:
           name: Link
