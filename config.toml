@@ -1,7 +1,7 @@
 baseURL: "https://neloduka-sobe.github.io/portfolio"
 languageCode: "en-us"
 title: "Borys Łangowicz's Portfolio"
-theme: hugo-profile
+theme: "hugo-profile"
 
 outputs:
   home:
