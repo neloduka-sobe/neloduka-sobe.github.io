@@ -238,23 +238,26 @@ params:
           - "Docker"
           - "Python"
           - "YoutubeAPI"
+        featured:
+          name: Link
+          link: https://github.com/neloduka-sobe/LexSearch
         links:
           - icon: fab fa-github
             url: https://github.com/neloduka-sobe/LexSearch
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Weather Station
+        content: Built upon Raspberry Pi weather station system programmed in python using the official GPIO library. Designed to state light intensity and wind speed every minute and save it for later inspection. Not only did this project provide the possibility to apply knowledge of physics, Linux, and programming, but also to design and create a proof of concept and challenge my creativity, using recycled goods as a base.
+        image: /images/projects/weather_station.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Link
+          link: https://github.com/neloduka-sobe/weather-station
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "RaspberryPi"
+          - "Electronics"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/neloduka-sobe/weather-station
 
   #Contact
   contact:
