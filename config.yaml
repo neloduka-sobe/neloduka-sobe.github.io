@@ -229,18 +229,18 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fneloduka-sobe%2Fmatura-informatyka
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Searching engine for Lex Fridman Podcast
+        content: Search engine created using Python3, Flask, MariaDB, Docker, YoutubeAPI, Scrapetube, and Spacy to search for occurrences of specific words in Lex Fridman Podcast, allowing both searches for the episode as well as a timestamp of the quote. I was inspired by Kalle Hallden's GoRogan concept and elaborated on it by providing timestamps of searched phrases in specific episodes.
+        image: /images/projects/lex.png
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Flask"
+          - "MariaDB"
+          - "Docker"
+          - "Python"
+          - "YoutubeAPI"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/neloduka-sobe/LexSearch
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
