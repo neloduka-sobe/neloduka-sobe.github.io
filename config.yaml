@@ -181,7 +181,7 @@ params:
         GPA: "6.0 out of 6.0"
 	content: |
 	High School Diploma, HL Math, HL Computer Science and HL English. 
-	\"Primus Inter Pares\" award for the best graduate of the year
+	'Primus Inter Pares' award for the best graduate of the year
 
   # Achievements
   achievements:
