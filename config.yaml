@@ -210,7 +210,7 @@ params:
     items:
       - title: "Repository of example solutions for an official problem set for the Matura exam"
         content: "The repository aims to help other computer science enthusiasts learn algorithms required for the polish Matura exam and comprehend algorithm thinking by resolving official problem sets. I have been committing to this project as I have been preparing for the exam on myself."
-        image: /images/projects/profile.png
+        image: /images/projects/matura.png
         featured:
           name: Link
           link: https://github.com/neloduka-sobe/matura-informatyka
@@ -221,11 +221,11 @@ params:
           - "Excel"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url:  mailto:?subject=Matura%20Infromatyka%20repozytorium&body=Link%3Ahttps%3A%2F%2Fgithub.com%2Fneloduka-sobe%2Fmatura-informatyka  
           - icon: fab fa-github
             url: https://github.com/neloduka-sobe/matura-informatyka
           - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fneloduka-sobe%2Fmatura-informatyka
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
