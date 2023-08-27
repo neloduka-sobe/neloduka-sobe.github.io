@@ -176,11 +176,12 @@ params:
       - title: "High School"
         school:
           name: "II LICEUM OGÓLNOKSZTAŁCĄCE im. Mikołaja Kopernika w Lesznie z Oddziałami Dwujęzycznymi i Międzynarodowymi"
-          date: "2019 - 2023"
           url: "http://liceum.kopernik-leszno.pl/"
+        date: "2019 - 2023"
         GPA: "6.0 out of 6.0"
         content: |-
             High School Diploma, HL Math, HL Computer Science and HL English. 
+            </br>
             Primus Inter Pares award for the best graduate of the year
   # Achievements
   achievements:
