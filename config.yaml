@@ -180,8 +180,8 @@ params:
           url: "http://liceum.kopernik-leszno.pl/"
         GPA: "6.0 out of 6.0"
 	content: |-
-	High School Diploma, HL Math, HL Computer Science and HL English. 
-	'Primus Inter Pares' award for the best graduate of the year
+		High School Diploma, HL Math, HL Computer Science and HL English. 
+		Primus Inter Pares award for the best graduate of the year
 
   # Achievements
   achievements:
