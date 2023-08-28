@@ -160,6 +160,7 @@ params:
         - "Linux"
         - "SQL"
         - "Vim"
+        - "WordPress"
 
   # Education
   education:
@@ -188,22 +189,24 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: High School Business Challenge
+        content: As a participant in the 8th edition of the High School Business Challenge, I had the opportunity to compete against high school students from across Central and Eastern Europe, including Poland, Hungary, the Czech Republic, and Slovakia. This competition - the largest of its kind in the region, presented me with real business challenges that tested my knowledge, creativity, and soft skills. Not only was I able to improve my skills, but I also gained valuable business experience. 
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+
+      - title: Advent of Math finalist
+        content: I competed in a math contest containing a series of academic-level math problems published once a day and to be solved in the next twenty-four hours for four weeks straight. After a great deal of competition, I ended it in the first ten of circa thousand best high schoolers from my country. Not only did I broaden my understanding of complex math problems, but I also hardened my inner perseverance during this contest.
         image: /images/achievment.jpg
-      - title: Hugo Profile
+      - title: Winner of the /"Jobs of the Future - Destination: Mars/" contest
         content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
         image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+
+      - title: Winner of the Start-up Competiton
+        content: As a leader of the team of four, I immensely contributed to being awarded 1st place for best start-up business plan in terms of innovation, finances, technical facets, and sustainability of the final product. The project was aimed at the renewable energy market to enhance the safety of solar installations and mitigate the risk of electrocution by damaged or misused solar panels.
+        image: /images/achievment.jpg
+
+      - title: Finalist of KOALA math contest
+        content: In May 2021, I had the opportunity to participate in the KOALA math contest, a three-stage competition organized by the math department of Adam Mickiewicz University. The competition covered topics in combinatorics, algorithmic thinking, and mathematical logic and required a high level of skill and knowledge. Through hard work and determination, I was able to advance to the finals as part of a team of four highly skilled individuals. This experience was a valuable and enriching opportunity to showcase my expertise in these areas and test my abilities against other talented competitors. I am honored to have been a finalist in such an event.
+        image: /images/achievment.jpg
 
   # projects
   projects:
