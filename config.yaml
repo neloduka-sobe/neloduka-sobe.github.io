@@ -29,11 +29,11 @@ Menus:
     #  title: Blog posts
     #  url: /blogs
     #  weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 1
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 1
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Borys."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I speak and breath IT"
+    content: "A passionate computer science nerd. I tend to make use of technologies to build things philosophers have never dreamt of."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -147,9 +147,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a computer science student with a passion for cybersecurity. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and business. I am currently studying computer science at University of Toronto Canada, ON. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on understanding low-level consepts of computer organization.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -161,6 +161,7 @@ params:
         - "SQL"
         - "Vim"
         - "WordPress"
+	- "NASM"
 
   # Education
   education:
