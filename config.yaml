@@ -161,7 +161,7 @@ params:
         - "SQL"
         - "Vim"
         - "WordPress"
-	- "NASM"
+        - "NASM"
 
   # Education
   education:
