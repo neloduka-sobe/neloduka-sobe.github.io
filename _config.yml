@@ -9,7 +9,7 @@ last_name: Łangowicz
 email: borys@langowicz.pl
 description: Computer Science and Statistics student at University of Toronto.
 # footer_text:
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website
+keywords: programming, machine-learning, deep-learning, python
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🖥️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
