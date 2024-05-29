@@ -1,11 +1,9 @@
-github_users:
-
 github_repos:
   - neloduka-sobe/Sejm-Votings-Analysis
   - neloduka-sobe/Heart-Diseases-Prediction
-  - https://github.com/neloduka-sobe/Cellestial-Bodies
-  - https://github.com/neloduka-sobe/Wages-Ontario
-  - https://github.com/neloduka-sobe/LNL
-  - https://github.com/neloduka-sobe/LexSearch
-  - https://github.com/neloduka-sobe/matura-informatyka
-  - https://github.com/neloduka-sobe/weather-station
+  - neloduka-sobe/Cellestial-Bodies
+  - neloduka-sobe/Wages-Ontario
+  - neloduka-sobe/LNL
+  - neloduka-sobe/LexSearch
+  - neloduka-sobe/matura-informatyka
+  - neloduka-sobe/weather-station
