@@ -44,7 +44,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 
@@ -580,7 +580,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: assets/json/resume.json
 jsonresume:
   - basics
   - work
