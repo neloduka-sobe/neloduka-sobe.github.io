@@ -10,7 +10,8 @@
       "city": "Toronto",
       "countryCode": "Canada",
       "region": "Ontario"
-    }},
+    }
+  },
   "education": [
     {
       "institution": "University of Toronto",
@@ -19,15 +20,29 @@
       "area": "Specialist Program in Computer Science, Major in Statistics",
       "studyType": "Bachelor of Science",
       "startDate": "2023-09",
-      "courses": ["Data Science", "Software Design", "Software Tools and Systems Programming", "Discrete Mathematics", "Calculus 1, 2, 3", "Introduction to Computer Science 1, 2", "Linear Algebra 1,2"]
-    }],
+      "courses": [
+        "Data Science",
+        "Software Design",
+        "Software Tools and Systems Programming",
+        "Discrete Mathematics",
+        "Calculus 1, 2, 3",
+        "Introduction to Computer Science 1, 2",
+        "Linear Algebra 1,2"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Freelance",
       "position": "Information Technology Consultant",
       "startDate": "Sep. 2022",
       "endDate": "Present",
-      "highlights": ["Integrated, containerized, and fine-tuned PHP-based CRM system for a company, improving overall security and efficiency of the client’s tech systems.", "Cleaned up the database with SQL and migrated it to MariaDB, making it ~50x smaller with no data losses.", "Have written Bash and Python scripts to automate the administration and backup of the data, helping to reduce backup costs and recovery costs by 70%.", "Created solutions for monitoring and troubleshooting industry systems using Arduino-based microcontrollers, which resulted in average savings of $1300 per false-positive."]
+      "highlights": [
+        "Integrated, containerized, and fine-tuned PHP-based CRM system for a company, improving overall security and efficiency of the client’s tech systems.",
+        "Cleaned up the database with SQL and migrated it to MariaDB, making it ~50x smaller with no data losses.",
+        "Have written Bash and Python scripts to automate the administration and backup of the data, helping to reduce backup costs and recovery costs by 70%.",
+        "Created solutions for monitoring and troubleshooting industry systems using Arduino-based microcontrollers, which resulted in average savings of $1300 per false-positive."
+      ]
     }
   ],
   "activities": [
@@ -39,8 +54,12 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }],
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "Quantum Computing",
@@ -144,5 +163,5 @@
         "Quantum Teleportation"
       ]
     }
- ]
+  ]
 }
