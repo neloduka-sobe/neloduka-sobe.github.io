@@ -4,7 +4,7 @@ title:
 Data Analysis of Ontario Wages Based on Ontario Data Catalogue
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: Data
 giscus_comments: true
 ---

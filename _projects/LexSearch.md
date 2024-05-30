@@ -3,8 +3,8 @@ layout: page
 title: LexSearch
 description: a project with no image
 img:
-importance: 4
-category: fun
+importance: 2
+category: Software
 ---
 
 Every project has a beautiful feature showcase page.
