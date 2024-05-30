@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: 
+Look 'n Listen | HTV8 Best AI Hack
+description: a project with a background image
+img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Software
 ---
 
 Every project has a beautiful feature showcase page.
