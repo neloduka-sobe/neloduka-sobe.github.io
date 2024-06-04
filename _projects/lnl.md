@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
-Look 'n Listen | HTV8 Best AI Hack
+title: Look 'n Listen | HTV8 Best AI Hack
 description: a project with a background image
 img: assets/img/1.jpg
+redirect: https://devpost.com/software/look-n-listen
 importance: 1
 category: Software
 ---

@@ -3,6 +3,7 @@ layout: page
 title: LexSearch
 description: a project with no image
 img:
+redirect: https://github.com/neloduka-sobe/LexSearch
 importance: 2
 category: Software
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Hear Disease AdaBoost Classifier using Scikit-learn
 description: another without an image
 img:
+redirect: 
 importance: 3
 category: Data
 ---

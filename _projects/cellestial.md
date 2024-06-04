@@ -3,8 +3,8 @@ layout: page
 title: Celestial Bodies Random Forest Classifier using Scikit-learn
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 2
+redirect: https://github.com/neloduka-sobe/Cellestial-Bodies
+importance: 4
 category: Data
 ---
 
