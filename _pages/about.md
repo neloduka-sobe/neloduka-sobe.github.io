@@ -15,8 +15,39 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+```Python
+class MachineLearningEngineer(HumanifiedLLM):
+    def __init__(self):
+        super().__init__()
+        self.name, self.surname, , self.company, self.contact = [None * 4]
+        self.skills = []
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+    def load_resume(self, resume_json):
+        try:
+            resume_data = json.loads(resume_json)
+            self.name = resume_data.get('name')
+            self.surname = resume_data.get('surname')
+            self.job_title = resume_data.get('job_title')
+            self.company = resume_data.get('company')
+            self.email = resume_data.get('email')
+            self.phone = resume_data.get('phone')
+            self.skills = resume_data.get('skills', [])
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+if __name__ == "__main__":
+    me = MachineLearningEngineer()
+    whoami = '''
+    {
+        "name": "Jane",
+        "surname": "Smith",
+        "job_title": "Data Scientist",
+        "company": "Data Insights Inc.",
+        "email": "",
+        "phone": "",
+        "skills": ["Python", "R", "SQL", "Machine Learning", "Data Visualization"]
+    }
+    '''
+    me.load_resume(whoami)
+```
+
