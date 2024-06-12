@@ -4,7 +4,7 @@
 		"label": "Machine Learning/Software Developer",
 		"image": "",
 		"email": "borys@langowicz.pl",
-		"website": "neloduka-sobe.github.io",
+		"website": "https://neloduka-sobe.github.io",
 		"summary": "",
 		"location": {
 			"city": "Toronto",
@@ -103,27 +103,6 @@
 			"name": "Supervised Machine Learning: Regression and Classification",
 			"date": "2023-091",
 			"issuer": "Stanford University"
-		},
-		{
-			"name": "Quantum Cryptography",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-hashtag"
-		},
-		{
-			"name": "Quantum Communication",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-calendar"
-		},
-		{
-			"name": "Quantum Teleportation",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-clipboard-check"
 		}
 	],
 	"skills": [
