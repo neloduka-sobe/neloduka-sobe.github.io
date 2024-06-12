@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: whoami
 permalink: /
-subtitle: Bash Lover
+subtitle: Average Machine Learning Enthusiast, Entrepreneur, Student, Lifelong Learner, Time Person of the Year 2006
 
 profile:
   align: right
