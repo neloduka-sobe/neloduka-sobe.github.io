@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Analysis of Polish Parliament Data
-description: with background image
+description: R, API, Web Scrapping, knitr, ggplot2, dplyr
 img: assets/img/parliament.png
 redirect: https://neloduka-sobe.github.io/Sejm-Votings-Analysis/
 importance: 1
