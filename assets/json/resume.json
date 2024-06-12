@@ -1,10 +1,10 @@
 {
 	"basics": {
 		"name": "Borys Łangowicz",
-		"label": "Software Developer",
+		"label": "Machine Learning/Software Developer",
 		"image": "",
 		"email": "borys@langowicz.pl",
-		"url": "neloduka-sobe.github.io",
+		"website": "neloduka-sobe.github.io",
 		"summary": "",
 		"location": {
 			"city": "Toronto",
@@ -19,7 +19,8 @@
 			"url": "https://www.utoronto.ca/",
 			"area": "Specialist Program in Computer Science, Major in Statistics",
 			"studyType": "Bachelor of Science",
-			"startDate": "2023-09",
+			"startDate": "Sep. 2023",
+            "endDate": "May 2026",
 			"courses": [
 				"Data Science",
 				"Software Design",
@@ -38,26 +39,35 @@
 			"startDate": "Sep. 2022",
 			"endDate": "Present",
 			"highlights": [
-				"Integrated, containerized, and fine-tuned PHP-based CRM system for a company, improving overall security and efficiency of the client’s tech systems.",
+				"Integrated, containerized, and fine-tuned PHP-based CRM system for a major critical infrastructure company, resulting in 23% decrease in maintenance costs, and reduced time spent on repetitive tasks by 30 minutes per day.",
 				"Cleaned up the database with SQL and migrated it to MariaDB, making it ~50x smaller with no data losses.",
-				"Have written Bash and Python scripts to automate the administration and backup of the data, helping to reduce backup costs and recovery costs by 70%.",
-				"Created solutions for monitoring and troubleshooting industry systems using Arduino-based microcontrollers, which resulted in average savings of $1300 per false-positive."
+				"Wrote Bash and Python scripts to automate the administration and backup of the data, helping to reduce backup costs and recovery costs by 70%.",
+				"Created solutions for monitoring and troubleshooting critical industry systems using Arduino-based microcontrollers, resulting in average savings of $1300 per false-positive, and preventing production lines closures."
 			]
 		}
 	],
 	"activities": [
 		{
-			"organization": "People's Climate March",
+			"organization": "Google Developer Student Club",
 			"location": "Toronto, ON, Canada",
-			"position": "Lead Organizer",
-			"url": "https://example.com",
-			"startDate": "2014-04-01",
-			"endDate": "2015-07-01",
-			"summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+			"position": "Academic Director",
+			"url": "https://gdsc.community.dev/university-of-toronto-scarborough-toronto-canada/",
+			"startDate": "Sep. 2023",
+			"endDate": "Present",
 			"highlights": [
-				"Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-				"Men of the year 2014 by Time magazine"
+				"Collaborated with all top Canadian universities, and industry leaders to orchestrate nationwide DevFest events, and hosted workshops on prompt engineering during the events with over 600 students just at the University of Toronto.",
+				"Hosted five-week ML Study Jams, teaching TensorFlow, Pandas, and Seaborn to introduce Machine Learning, and Deep Learning concepts to students, resulting in high attendance and highly positive feedback, with my students winning Kaggle competitions, hackathons, and datathons.",
+                "Helped the speakers throughout their talks at 2 days long Women in Tech Conference at Microsoft HQ, for 180+ participants, featuring 25+ workshops, panels, and speeches to celebrate the achievements of women in technology."
 			]
+		},
+		{
+			"organization": "GenAI Genesis Hackathon",
+			"location": "Toronto, ON, Canada",
+			"position": "Operations Executive",
+			"url": "https://genaigenesis.ca/",
+			"startDate": "Feb. 2024",
+			"endDate": "Present",
+            "summary": "Managed the judging process, ensured on-time assessment of the projects, and handled prizes at Largest AI hackathon in Canada with 1200+ registrations, 250+ hackers from 11 countries, 15 mentors, 30 judges, 66 projects."
 		}
 	],
 	"projects": [
@@ -148,20 +158,6 @@
 			"language": "Polish",
 			"fluency": "Native",
 			"icon": ""
-		}
-	],
-	"interests": [
-		{
-			"name": "Physics",
-			"icon": "fa-solid fa-tag",
-			"keywords": [
-				"Quantum Mechanics",
-				"Quantum Computing",
-				"Quantum Information",
-				"Quantum Cryptography",
-				"Quantum Communication",
-				"Quantum Teleportation"
-			]
 		}
 	]
 }
