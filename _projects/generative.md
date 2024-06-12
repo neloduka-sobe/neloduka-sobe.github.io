@@ -5,5 +5,4 @@ description: Python, NumPy, Jupyter Notebook, Pillow, Evolutional Algorithms, Pi
 img: assets/img/generation1.png
 redirect: https://github.com/neloduka-sobe/evolution-photos
 importance: 1
-category: Data
 ---
