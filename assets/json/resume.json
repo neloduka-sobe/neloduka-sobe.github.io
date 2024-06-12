@@ -91,25 +91,19 @@
 	],
 	"certificates": [
 		{
-			"name": "Machine Learning",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-location-dot"
+			"name": "Neural Networks and Deep Learning",
+			"date": "2024-06",
+			"issuer": "DeepLearning.AI`"
 		},
 		{
-			"name": "Quantum Computing",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-tag"
+			"name": "Advanced Learning Algorithms",
+			"date": "2023-10",
+			"issuer": "Stanford University"
 		},
 		{
-			"name": "Quantum Information",
-			"date": "2018-01-01",
-			"issuer": "Stanford University",
-			"url": "https://example.com",
-			"icon": "fa-solid fa-envelope"
+			"name": "Supervised Machine Learning: Regression and Classification",
+			"date": "2023-091",
+			"issuer": "Stanford University"
 		},
 		{
 			"name": "Quantum Cryptography",
