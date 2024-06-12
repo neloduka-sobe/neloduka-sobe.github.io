@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: "Talk is cheap show me the code." -Abraham Lincoln
 nav: true
