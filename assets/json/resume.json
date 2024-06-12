@@ -44,9 +44,10 @@
 				"Wrote Bash and Python scripts to automate the administration and backup of the data, helping to reduce backup costs and recovery costs by 70%.",
 				"Created solutions for monitoring and troubleshooting critical industry systems using Arduino-based microcontrollers, resulting in average savings of $1300 per false-positive, and preventing production lines closures."
 			]
-		},
+		}],
+        "activities": [
 		{
-			"name": "Google Developer Student Club",
+			"organization": "Google Developer Student Club",
 			"location": "Toronto, ON, Canada",
 			"position": "Academic Director",
 			"url": "https://gdsc.community.dev/university-of-toronto-scarborough-toronto-canada/",
@@ -59,7 +60,7 @@
 			]
 		},
 		{
-			"name": "GenAI Genesis Hackathon",
+			"organization": "GenAI Genesis Hackathon",
 			"location": "Toronto, ON, Canada",
 			"position": "Operations Executive",
 			"url": "https://genaigenesis.ca/",
