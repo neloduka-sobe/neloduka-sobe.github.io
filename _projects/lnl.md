@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Look 'n Listen | HTV8 Best AI Hack"
+title: Look & Listen | HTV8 Best AI Hack
 description: a project with a background image
 img:
 redirect: https://devpost.com/software/look-n-listen
