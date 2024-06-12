@@ -2,7 +2,7 @@
 layout: page
 title: Data Analysis of Polish Parliament Data
 description: with background image
-img:
+img: assets/img/parliament.png
 redirect: https://neloduka-sobe.github.io/Sejm-Votings-Analysis/
 importance: 1
 category: Data
