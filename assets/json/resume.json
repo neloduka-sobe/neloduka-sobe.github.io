@@ -46,7 +46,7 @@
 			]
 		}
 	],
-	"activities": [
+	"volunteer": [
 		{
 			"organization": "Google Developer Student Club",
 			"location": "Toronto, ON, Canada",
@@ -129,18 +129,77 @@
 	],
 	"skills": [
 		{
-			"name": "Physics",
+			"name": "Programming Languages",
 			"level": "Master",
 			"icon": "fa-solid fa-hashtag",
 			"keywords": [
-				"Quantum Mechanics",
-				"Quantum Computing",
-				"Quantum Information",
-				"Quantum Cryptography",
-				"Quantum Communication",
-				"Quantum Teleportation"
+				"Python",
+				"C",
+				"Java",
+                "JavaScript",
+                "Bash",
+                "R",
+                "Lua",
+				"SQL",
+				"CSS",
+				"HTML"
 			]
-		}
+		},
+        {
+			"name": "Frameworks and Tools",
+			"level": "Master",
+			"icon": "fa-solid fa-hashtag",
+			"keywords": [
+				"Scikit-learn",
+				"Tensorflow",
+				"PyTorch",
+                "Pandas",
+                "NumPy",
+                "Flask",
+                "React",
+				"MariaDB",
+				"MongoDB",
+				"Docker",
+                "Linux",
+                "Jupyter Notebook",
+                "SpaCy",
+                "vim",
+                "git",
+                "OAuth 2.0",
+                "CUDA",
+                "OpenCV"
+			]
+        },
+        {
+			"name": "Technical Skills",
+			"level": "Master",
+			"icon": "fa-solid fa-hashtag",
+			"keywords": [
+				"Deep Learning",
+				"Machine Learning",
+				"DevOps",
+                "Cybersecurity",
+                "API",
+                "Backend",
+                "Data Structures and Algorithms",
+				"Natural Language Processing",
+				"Computer Vision",
+				"Evolution Algorithms"
+			]
+        },
+        {
+			"name": "Soft Skills",
+			"level": "Master",
+			"icon": "fa-solid fa-hashtag",
+			"keywords": [
+				"Teamwork",
+				"Technical Writing",
+				"Problem Solving",
+                "Communication",
+                "Public Speaking",
+                "Teaching"
+			]
+        }
 	],
 	"languages": [
 		{
