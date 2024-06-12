@@ -15,39 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-```Python
-class MachineLearningEngineer(HumanifiedLLM):
-    def __init__(self):
-        super().__init__()
-        self.name, self.surname, , self.company, self.contact = [None * 4]
-        self.skills = []
+**Hey there!**
 
-    def load_resume(self, resume_json):
-        try:
-            resume_data = json.loads(resume_json)
-            self.name = resume_data.get('name')
-            self.surname = resume_data.get('surname')
-            self.job_title = resume_data.get('job_title')
-            self.company = resume_data.get('company')
-            self.email = resume_data.get('email')
-            self.phone = resume_data.get('phone')
-            self.skills = resume_data.get('skills', [])
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON: {e}")
+I’m Borys Łangowicz, a tech enthusiast based in [Toronto](https://www.toronto.ca/) and currently studying Computer Science and Statistics at the [University of Toronto](https://www.utoronto.ca/).
 
-if __name__ == "__main__":
-    me = MachineLearningEngineer()
-    whoami = '''
-    {
-        "name": "Jane",
-        "surname": "Smith",
-        "job_title": "Data Scientist",
-        "company": "Data Insights Inc.",
-        "email": "",
-        "phone": "",
-        "skills": ["Python", "R", "SQL", "Machine Learning", "Data Visualization"]
-    }
-    '''
-    me.load_resume(whoami)
-```
+My goal in life is to make a difference, using the skills I own. Somehow it ended up, that I am not that bad with computers, and that is probably the reason you are here.
 
+I use my knowledge to solve real-life problems, [help companies use cutting-edge technology](https://neloduka-sobe.github.io/cv/), and build for the community.
+
+That why aside from my freelance I work with a team of great people at [Google Developer Student Club UTSC](https://gdsc.community.dev/university-of-toronto-scarborough-toronto-canada/) to create country-wide study groups, conferences ([DevFest Canada](https://gdsc.devfest.ca/), [WiT Conference](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-toronto-mississauga-presents-international-womens-day-women-in-tech-conference-2024/)), and [GenAI Genesis - The Largest AI Hackathon in Canada](https://genaigenesis.ca/) (Soon to be the largest in America!).
+
+In my free time, I write [sub-optimal code](https://github.com/neloduka-sobe?tab=repositories), run mountain ultramarathons, read, and lift metal in a repetitive manner.
