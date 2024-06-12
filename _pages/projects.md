@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: "Talk is cheap show me the code." -Abraham Lincoln
+description: Talk is cheap show me the code. -Abraham Lincoln
 nav: true
 nav_order: 3
 display_categories: [Data, Software]
