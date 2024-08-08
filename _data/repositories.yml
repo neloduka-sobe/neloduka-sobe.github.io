@@ -1,7 +1,9 @@
 github_repos:
-  - neloduka-sobe/C_MNIST
+  - neloduka-sobe/SeaScript
+  - neloduka-sobe/C_NN
   - neloduka-sobe/evolution-photos
   - neloduka-sobe/Sejm-Votings-Analysis
+  - neloduka-sobe/TAAM
   - neloduka-sobe/Heart-Diseases-Prediction
   - neloduka-sobe/Cellestial-Bodies
   - neloduka-sobe/Wages-Ontario
